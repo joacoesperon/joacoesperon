@@ -1,6 +1,6 @@
 # Hi, I'm Joaquín Esperón
 
-Software engineer (UIB, 2026) building automation and AI-driven tools for businesses. I mix backend/frontend development with a hands-on interest in growth, automation and fintech — I've also built and run small ventures on my own (trading algorithms, a local business).
+Software engineer (UIB, 2026). I currently work as a Control Engineer at SAMPOL, building SCADA systems for industrial automation. Alongside that, I mix backend/frontend development with a hands-on interest in growth, automation and fintech — I've also built and run small ventures on my own (trading algorithms, a local business).
 
 Looking for remote roles in automation, AI, fintech or SaaS.
 
